@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**tktintin/tktintin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub. The following is a curated index of some of my undergraduate projects:
 
-Here are some ideas to get you started:
+#### 🕸️ Web & Native Apps
+* [Student-Alumni Connect Application](https://github.com/tktintin/student-alumni-connect-app) (React, Redux, Jest)
+* [Password Generator](https://github.com/tktintin/password-generator) (JavaScript, Python, Flask)
+* [Swim Team Management System](https://github.com/tktintin/swim-team-management-system) (Java, UML)
+* [Real-Time Earthquake Mapping + News](https://github.com/tktintin/real-time-earthquake-mapping) (JavaScript, MVC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🪁 Applied Mathematics
+* [Financial Planning for a Newborn's College Fund](https://github.com/tktintin/mathematics) (ODE, CoCalc, Python, Excel)
+* [Frost Line Depth Determination for Construction](https://github.com/tktintin/mathematics) (PDE, CoCalc, Python)
+* [Heart Transplant Data Analysis](https://github.com/tktintin/mathematics) (Data Analysis, Statistics, R, RStudio)
